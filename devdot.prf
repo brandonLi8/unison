@@ -1,0 +1,5 @@
+root = /Users/brandon/
+root = ssh://brandon3/
+
+path = common.zshrc
+path = .tmux.conf
